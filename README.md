@@ -1,1 +1,1 @@
-# Tea-Cozy-Website-Store
+# Tea-Cozy-Website-Store Project
